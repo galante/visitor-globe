@@ -106,7 +106,7 @@ $(function () {
 
 				// Populate the side-menu with the countries ordered by members online (12 entries tops).
 
-				if (i < 12) {
+				if (i < 19) {
 
 					currentInfo.append($('<li id="country' + (i + 1) + '" class="entry"></li>'));
 
