@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/galante/visitor-globe.git"
+    "url": "https://github.com/galante/visitor-globe.git"
   },
   "keywords": [
     "npm"
