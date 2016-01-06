@@ -1,7 +1,7 @@
 {
   "name": "real-time-visitor-globe",
   "version": "1.0.0",
-  "description": "",
+  "description": "SMS tracking",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -18,5 +18,23 @@
     "express": "^4.8.7",
     "is-bot": "0.0.1",
     "request": "^2.40.0"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  },
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galante/visitor-globe.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "bugs": {
+    "url": "https://github.com/galante/visitor-globe/issues"
   }
 }

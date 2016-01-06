@@ -61,3 +61,4 @@ curl https://sms-global.herokuapp.com/phonenumber/+32-470-12-34-52
 curl https://sms-global.herokuapp.com/phonenumber/+32-470-12-34-53
 curl https://sms-global.herokuapp.com/phonenumber/+32-470-12-34-54
 curl https://sms-global.herokuapp.com/phonenumber/+32-470-12-34-55
+curl https://sms-global.herokuapp.com/phonenumber/+36703215557
